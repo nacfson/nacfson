@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nacfson@gmail.com)](mailto:moonkanghyuck@gmail.com)
-[![유튜브](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/channel/UCTDKfgRbAzrK9YQLIQGC92g)
+
 
 ## Portfolio
 
