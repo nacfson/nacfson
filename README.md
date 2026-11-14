@@ -1,12 +1,6 @@
 <h1 align="center">nacfson</h1>
 
 <p align="center">
-  <a href="https://github.com/nacfson">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=520&lines=Backend+Developer+%40+HAEGIN;.NET+8+%C2%B7+Kubernetes+%C2%B7+AWS;Building+reliable+production+systems" alt="Typing intro">
-  </a>
-</p>
-
-<p align="center">
   Backend Developer with professional experience in backend services, server programming,<br>
   cloud infrastructure, and game development.
 </p>
